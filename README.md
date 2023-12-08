@@ -6,7 +6,7 @@ Proyek ini adalah halaman HTML sederhana yang memungkinkan pengguna menggambar t
 
 ## Demo
 
-Anda dapat melihat demo langsung dari aplikasi ini di [sini](zahruddin.github.io/signature-maker).
+Anda dapat melihat demo langsung dari aplikasi ini di [sini](https://zahruddin.github.io/signature-maker).
 
 ## Fitur
 
@@ -27,9 +27,5 @@ Anda dapat melihat demo langsung dari aplikasi ini di [sini](zahruddin.github.io
 ## Instalasi
 
 1. Clone repositori ini:
-
-    ```bash
-    git clone https://github.com/zahruddin/signature-maker.git
-    ```
 
 2. Buka `index.html` menggunakan browser web.
